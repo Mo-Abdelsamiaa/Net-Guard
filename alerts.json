@@ -1,0 +1,6 @@
+{"timestamp": "2026-09-08 20:16:55", "alert_type": "PORT_SCAN", "source_ip": "10.0.0.66", "details": "15 distinct ports probed in 10s window"}
+{"timestamp": "2026-09-08 20:16:55", "alert_type": "ICMP_FLOOD", "source_ip": "10.0.0.66", "details": "50 ICMP packets in 5s window"}
+{"timestamp": "2026-09-08 20:16:55", "alert_type": "BRUTE_FORCE_PATTERN", "source_ip": "10.0.0.66", "details": "20 attempts to port 22 in 15s window"}
+{"timestamp": "2026-09-08 20:24:11", "alert_type": "ICMP_FLOOD", "source_ip": "10.0.0.66", "details": "50 ICMP packets in 5s window"}
+{"timestamp": "2026-09-08 20:24:11", "alert_type": "PORT_SCAN", "source_ip": "10.0.0.66", "details": "20 distinct ports probed in 15s window"}
+{"timestamp": "2026-09-08 20:24:11", "alert_type": "BRUTE_FORCE_PATTERN", "source_ip": "10.0.0.66", "details": "20 attempts to port 22 in 15s window"}

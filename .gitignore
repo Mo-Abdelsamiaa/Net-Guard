@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+alerts.json
+alerts.csv
+alerts.log
+.DS_Store
